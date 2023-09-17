@@ -1,8 +1,8 @@
 # Overview
 
-This program run a introduction script in Python
+This program runs an introduction script in Python
 
-The finality of the program is demostrate the correct installation of the enviroment .
+The finality of the program is to demonstrate the correct installation of the environment.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,7 +16,7 @@ Tools that I used to develop the software:
 
 # Useful Websites
 
-{Websites helpful in the building process of this project}
+Websites helpful in the building process of this project}
 
 - [Maketecheasier](https://www.maketecheasier.com/run-python-script-in-mac/)
 - [Visual Studio Code & Github](https://code.visualstudio.com/docs/introvideos/versioncontrol)
